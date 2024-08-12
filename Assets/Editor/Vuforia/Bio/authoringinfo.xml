@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="3.2545 -11.6279 -19.1135 23.8170 -1.0573 22.8176" area="222" targetId="c3eaf50388444e189f584b72742bdcc0" name="Bio" pathAuthoring="c3eaf50388444e189f584b72742bdcc0_authoring.glb" pathOcclusion="c3eaf50388444e189f584b72742bdcc0_occlusion.3dt" pathNavMesh="c3eaf50388444e189f584b72742bdcc0_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
