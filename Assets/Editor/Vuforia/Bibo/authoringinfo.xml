@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-27.0385 -5.5689 -18.4275 4.1595 6.5800 13.1800" area="115" targetId="b490dd6449924767abffd3f3c8a30b87" name="Bibo" pathAuthoring="b490dd6449924767abffd3f3c8a30b87_authoring.glb" pathOcclusion="b490dd6449924767abffd3f3c8a30b87_occlusion.3dt" pathNavMesh="b490dd6449924767abffd3f3c8a30b87_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
