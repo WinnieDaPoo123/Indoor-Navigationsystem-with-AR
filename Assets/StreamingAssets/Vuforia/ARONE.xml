@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Musiksaal" size="2.000000 1.884297" />
+    <ImageTarget name="WC" size="2.000000 1.806452" />
+    <ImageTarget name="ZimmerXYZ" size="4.000000 4.000000" />
+    <ImageTarget name="ARONEIMG" size="3.000000 1.786765" />
+  </Tracking>
+</QCARConfig>
