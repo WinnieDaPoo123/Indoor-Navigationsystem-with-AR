@@ -1,0 +1,1 @@
+File com.ptc.vuforia.engine-10.21.3.tgz could not be uploaded due to its size, please download it on vuforia.
