@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-11.2662 -2.2768 -11.3729 -1.3836 1.5748 0.1024" area="37" targetId="77899a2b33254697847c53415af7f3a3" name="ZimmerBath" pathAuthoring="77899a2b33254697847c53415af7f3a3_authoring.glb" pathOcclusion="77899a2b33254697847c53415af7f3a3_occlusion.3dt" pathNavMesh="77899a2b33254697847c53415af7f3a3_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
