@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-6.1378 -4.0897 -8.3617 7.0433 1.6341 7.0543" area="57" targetId="7337e5cb1490408c8b43ebc5d8173d29" name="StubeKitchen" pathAuthoring="7337e5cb1490408c8b43ebc5d8173d29_authoring.glb" pathOcclusion="7337e5cb1490408c8b43ebc5d8173d29_occlusion.3dt" pathNavMesh="7337e5cb1490408c8b43ebc5d8173d29_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
