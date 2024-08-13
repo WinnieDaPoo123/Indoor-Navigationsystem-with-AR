@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="0.6453 -7.9317 -40.8919 47.3563 6.6291 3.7054" area="170" targetId="f180e5650f1d448a85c45f381ece65c1" name="sporttoerste" pathAuthoring="f180e5650f1d448a85c45f381ece65c1_authoring.glb" pathOcclusion="f180e5650f1d448a85c45f381ece65c1_occlusion.3dt" pathNavMesh="f180e5650f1d448a85c45f381ece65c1_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
