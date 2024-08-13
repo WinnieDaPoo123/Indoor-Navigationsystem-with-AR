@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-7.4001 -3.7226 -11.6161 5.6243 3.0903 18.0978" area="63" targetId="a648cdb300be451ab14bb4c1804a4381" name="SchuelZTest" pathAuthoring="a648cdb300be451ab14bb4c1804a4381_authoring.glb" pathOcclusion="a648cdb300be451ab14bb4c1804a4381_occlusion.3dt" pathNavMesh="a648cdb300be451ab14bb4c1804a4381_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
