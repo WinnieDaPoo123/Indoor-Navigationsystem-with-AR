@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="18.1319 -4.9822 -47.9076 44.2893 1.5667 -12.8301" area="57" targetId="e7d9b257b63540c7bf8e35b8c11baf08" name="musik" pathAuthoring="e7d9b257b63540c7bf8e35b8c11baf08_authoring.glb" pathOcclusion="e7d9b257b63540c7bf8e35b8c11baf08_occlusion.3dt" pathNavMesh="e7d9b257b63540c7bf8e35b8c11baf08_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
