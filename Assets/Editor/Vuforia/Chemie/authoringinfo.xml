@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-29.5561 -2.2513 -3.6873 -4.6257 4.6454 11.4354" area="88" targetId="e3a10f8b37454554a113ec5587ad9353" name="Chemie" pathAuthoring="e3a10f8b37454554a113ec5587ad9353_authoring.glb" pathOcclusion="e3a10f8b37454554a113ec5587ad9353_occlusion.3dt" pathNavMesh="e3a10f8b37454554a113ec5587ad9353_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
