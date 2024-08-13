@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-11.1167 -0.6248 -29.0075 21.2457 12.0108 -5.3950" area="110" targetId="b0117f7ae11d4ceca6ac5a357a9d1917" name="Oben" pathAuthoring="b0117f7ae11d4ceca6ac5a357a9d1917_authoring.glb" pathOcclusion="b0117f7ae11d4ceca6ac5a357a9d1917_occlusion.3dt" pathNavMesh="b0117f7ae11d4ceca6ac5a357a9d1917_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
