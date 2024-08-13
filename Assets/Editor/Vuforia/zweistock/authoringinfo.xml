@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-36.4839 -1.9415 -19.1788 -9.7023 10.1530 14.5054" area="130" targetId="8f1e22966eaa4e7787fff282fdca10a2" name="zweistock" pathAuthoring="8f1e22966eaa4e7787fff282fdca10a2_authoring.glb" pathOcclusion="8f1e22966eaa4e7787fff282fdca10a2_occlusion.3dt" pathNavMesh="8f1e22966eaa4e7787fff282fdca10a2_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
